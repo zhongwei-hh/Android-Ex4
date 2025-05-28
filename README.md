@@ -8,17 +8,16 @@
 
 ## 向应用中添加[TensorFlow Lite]
 
-![image](https://github.com/user-attachments/assets/768a137d-1d83-4da8-8d5f-b99999835cd7)
+![image](https://github.com/user-attachments/assets/c1456a15-372b-47cb-937e-4566525bba64)
 
 
 选择已经下载的自定义的训练模型。
 
-![image](https://github.com/user-attachments/assets/c4a24399-c5f1-47a3-96e4-7127b45ee594)
+![image](https://github.com/user-attachments/assets/69fffd7c-a5c6-4b52-a0b1-afc9aadd4646)
 
 
 点击“Finish”完成模型导入，系统将自动下载模型的依赖包并将依赖项添加至模块的build.gradle文件。
 
-TensorFlow Lite模型被成功导入，并生成摘要信息
 
 ## 3.**实现框架中的TODO代码项**
 
