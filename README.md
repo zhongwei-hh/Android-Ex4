@@ -6,7 +6,7 @@
 
 从https://github.com/hoitab/TFLClassify中下载好代码文件，并且编译运行并解决生成项目中的错误。
 
-## 向应用中添加[TensorFlow Lite](https://so.csdn.net/so/search?q=TensorFlow Lite&spm=1001.2101.3001.7020)
+## 向应用中添加[TensorFlow Lite]
 
 ![image](https://github.com/user-attachments/assets/768a137d-1d83-4da8-8d5f-b99999835cd7)
 
